@@ -67,7 +67,7 @@ Partial Class form3
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Monotype Corsiva", 48.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.DeepSkyBlue
-        Me.Label3.Location = New System.Drawing.Point(705, 409)
+        Me.Label3.Location = New System.Drawing.Point(607, 537)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(61, 79)
         Me.Label3.TabIndex = 3
@@ -78,7 +78,7 @@ Partial Class form3
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Monotype Corsiva", 26.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Label4.Location = New System.Drawing.Point(695, 398)
+        Me.Label4.Location = New System.Drawing.Point(592, 554)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(34, 43)
         Me.Label4.TabIndex = 4
@@ -100,7 +100,7 @@ Partial Class form3
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Monotype Corsiva", 27.75!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.Label6.Location = New System.Drawing.Point(730, 353)
+        Me.Label6.Location = New System.Drawing.Point(663, 554)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(36, 45)
         Me.Label6.TabIndex = 6
@@ -144,9 +144,9 @@ Partial Class form3
         Me.LstDisplay.Font = New System.Drawing.Font("Bookman Old Style", 9.75!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LstDisplay.FormattingEnabled = True
         Me.LstDisplay.ItemHeight = 17
-        Me.LstDisplay.Location = New System.Drawing.Point(56, 126)
+        Me.LstDisplay.Location = New System.Drawing.Point(56, 108)
         Me.LstDisplay.Name = "LstDisplay"
-        Me.LstDisplay.Size = New System.Drawing.Size(643, 123)
+        Me.LstDisplay.Size = New System.Drawing.Size(673, 140)
         Me.LstDisplay.TabIndex = 11
         '
         'PictureBoxCode
@@ -166,7 +166,7 @@ Partial Class form3
         Me.LstDevelopment.ItemHeight = 17
         Me.LstDevelopment.Location = New System.Drawing.Point(264, 263)
         Me.LstDevelopment.Name = "LstDevelopment"
-        Me.LstDevelopment.Size = New System.Drawing.Size(440, 106)
+        Me.LstDevelopment.Size = New System.Drawing.Size(479, 123)
         Me.LstDevelopment.TabIndex = 13
         '
         'LstCodingLanguage
@@ -176,7 +176,7 @@ Partial Class form3
         Me.LstCodingLanguage.ItemHeight = 17
         Me.LstCodingLanguage.Location = New System.Drawing.Point(264, 409)
         Me.LstCodingLanguage.Name = "LstCodingLanguage"
-        Me.LstCodingLanguage.Size = New System.Drawing.Size(435, 106)
+        Me.LstCodingLanguage.Size = New System.Drawing.Size(492, 123)
         Me.LstCodingLanguage.TabIndex = 14
         '
         'BtnClick
@@ -184,7 +184,7 @@ Partial Class form3
         Me.BtnClick.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.BtnClick.Font = New System.Drawing.Font("Bookman Old Style", 9.75!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BtnClick.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.BtnClick.Location = New System.Drawing.Point(322, 66)
+        Me.BtnClick.Location = New System.Drawing.Point(325, 57)
         Me.BtnClick.Name = "BtnClick"
         Me.BtnClick.Size = New System.Drawing.Size(91, 43)
         Me.BtnClick.TabIndex = 15
