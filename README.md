@@ -15,11 +15,13 @@ Steps to Run/build app
 
 1.Download/Clone the repository from Github and extract it into your local machine
 
-2.launch visual studio 2022
+2.Download Visual Studio 2022
 
-3.Open the project file sln/solution file on visual studio 2022
+3.Launch visual studio 2022
 
-4.Run the application by pressing the debug button ensure that the obj and bin files are deleted before debug 
+4.Open the project file sln/solution file on visual studio 2022
+
+5.Run the application by pressing the debug button ensure that the obj and bin files are deleted before debug 
 
 Notes
 
