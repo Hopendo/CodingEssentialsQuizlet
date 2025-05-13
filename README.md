@@ -13,8 +13,16 @@ Dependencies:none
 
 Steps to Run/build app 
 
-1.Download the repository
+1.Download/Clone the repository from Github and extract it into your local machine
 
-2.Open the project and build on visual studio 2022
+2.launch visual studio 2022
 
-3.Run the application by debugging
+3.Open the project file sln/solution file on visual studio 2022
+
+4.Run the application by pressing the debug button ensure that the obj and bin files are deleted before debug 
+
+Notes
+
+The project does not require any internet access to run,just Visual Studio 2022 installed with .NET desktop development 
+
+There are no ext packages or dependencies 
